@@ -4,6 +4,8 @@
 
 数据集下载链接在 train_set 和 test_set 文件夹内的 readme.txt 中。
 
+<img src="https://github.com/xiaoaug/Cats_Dogs_Classification_Pytorch/assets/39291338/f4494016-e7e7-44b4-aa89-1349fa40dac2" width="250">
+
 # 如何训练？
 
 1. 运行程序前，需将 train_set 和 test_set 文件夹下的压缩包解压。
